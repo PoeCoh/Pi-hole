@@ -1,0 +1,19 @@
+#Unsorted
+0.0.0.0 (\.|^)ggpht\.com$
+0.0.0.0 (\.|^)spcsdns\.net$
+0.0.0.0 (\.|^)a1q7\.net$
+0.0.0.0 (\.|^)ytimg\.com$
+0.0.0.0 (\.|^)googlevideo\.com$
+0.0.0.0 (\.|^)ero-advertising\.com$
+0.0.0.0 (\.|^)000webhostapp\.com$
+0.0.0.0 (\.|^)010sec\.com$
+0.0.0.0 (\.|^)01mspmd5yalky8\.com$
+
+#CDN
+0.0.0.0 (\.|^)fastly\.net$
+0.0.0.0 (\.|^)akamaiedge\.net$
+0.0.0.0 (\.|^)akamai\.net$
+
+#Imposter/Predatory Journals, Scams
+#Where possible I'll reference the legit one
+192.124.249.156 (\.|^)hsionline\.com$
